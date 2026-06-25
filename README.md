@@ -1,6 +1,6 @@
 👋 Hi, I'm Obinna Enenya
 
-- I'm a technology professional with experience spanning software development, machine learning, digital marketing, sales operations, and business management. I enjoy leveraging technology to solve real world problems, improve processes and create impactful solutions.
+I'm a technology professional with experience spanning software development, machine learning, digital marketing, sales operations, and business management. I enjoy leveraging technology to solve real world problems, improve processes and create impactful solutions.
 
 💻 My technical interests include PHP, Python, Laravel, MySQL, backend development, web applications, machine learning, data analytics, cloud technologies, and software solutions.
 
